@@ -1,4 +1,4 @@
-### Hey, I'm [fr33cd!](https://github.com/fr33cod) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px">
+### Hey, I'm [fr33di!](https://github.com/fr33cod) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px">
 Software developer specialized in process automation with JavaScript and Python. Experienced in creating scripts and tools that optimize workflows and improve operational efficiency. Passionate about continuous learning and development best practices, I enjoy collaborating on open source projects and exploring new technologies to drive innovation.
 
 
@@ -13,12 +13,10 @@ Software developer specialized in process automation with JavaScript and Python.
 
 
 ## Link
-<a href="https://www.youtube.com/@fr33cd">
+<a href="https://www.youtube.com/@fr33cod">
   <img align="left" alt="Victor's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://t.me/fr33cod">
-  <img align="left" alt="Victor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
 
 
 
