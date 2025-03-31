@@ -16,7 +16,7 @@ Software developer specialized in process automation with JavaScript and Python.
 <a href="https://www.youtube.com/@fr33cd">
   <img align="left" alt="Victor's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://t.me/fr33cd">
+<a href="https://t.me/fr33cod">
   <img align="left" alt="Victor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
